@@ -1,5 +1,8 @@
 # BOTQ-2025
 
+Presentation:
+https://www.canva.com/design/DAG0hAoJ0k8/xaMiWp10s6AGIucUPf4CRA/edit
+
 Data includes:
 Compustat (1970-2024)
 CRSP (1964-2024)
